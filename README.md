@@ -9,7 +9,7 @@ No sprite sheets. No external art assets. Every rickshaw, building, tree, and la
   <img alt="SFML" src="https://img.shields.io/badge/SFML-3.0.2-8CC445?style=for-the-badge&logo=sfml&logoColor=white">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%20(MSYS2%2FUCRT64)-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="Build" src="https://img.shields.io/badge/Build-GCC-4EAA25?style=for-the-badge&logo=gnu&logoColor=white">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+ <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
 </p>
 
