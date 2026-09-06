@@ -1,0 +1,19 @@
+# Build output
+game.exe
+*.o
+*.obj
+
+# SFML runtime DLLs (installed via pacman, never committed)
+*.dll
+
+# Local player accounts & progress
+users.txt
+
+# Local high scores / stray files
+data/highscore.txt
+cd
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
